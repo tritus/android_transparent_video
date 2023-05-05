@@ -1,7 +1,7 @@
-## TransparentVideo
+# TransparentVideo
 A library that enables to display videos with transparency.
 
-# Usage :
+## Usage :
 ```
 @Composable
 fun MyScreen() {
